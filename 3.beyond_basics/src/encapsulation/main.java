@@ -22,7 +22,6 @@ public class main {
 		
 		myBankAccount.deposit(-60);
 		myBankAccount.withdraw(200);
-		myBankAccount.showBalance();
 		
 		myBankAccount.deposit(100);
 		myBankAccount.withdraw(200);
